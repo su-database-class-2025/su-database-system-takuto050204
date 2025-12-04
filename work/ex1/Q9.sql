@@ -1,0 +1,1 @@
+SELECT DISTINCT count(language_id) FROM language;
